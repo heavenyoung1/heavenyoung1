@@ -27,8 +27,9 @@ Here are some ideas to get you started:
 
 ### Вот, что я умею
 - Python [Ботя для знакомств VKinder](https://github.com/aiminaev/vkinder)
-- PostgreSQL
+- PostgreSQL [Сертификат DBLearn] (https://learndb.ru/profile/certificate)
 - Django [Генератор паролей](https://github.com/heavenyoung1/django_password_generator)
+- Django [Сайт-портфолио - (находится в разработке)] (https://github.com/heavenyoung1/personal_portfolio_project)
 - HTML CSS [Вёрстка макета веб-страницы](https://github.com/heavenyoung1/WebSite)
 
 <br/>  
