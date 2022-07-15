@@ -34,7 +34,7 @@ Here are some ideas to get you started:
 
 <br/>  
 
-[![codewars](https://www.codewars.com/users/aiminaev/badges/large)](https://www.codewars.com/users/heavenyoung1)
+[![codewars](https://www.codewars.com/users/heavenyoung1/badges/large?theme=light)](https://www.codewars.com/users/heavenyoung1)
 
 ### Как связаться со мной
 
