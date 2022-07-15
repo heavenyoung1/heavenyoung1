@@ -26,10 +26,10 @@ Here are some ideas to get you started:
 <div style="margin: 20px"><img align="right" alt="GIF" src="https://github.com/aiminaev/aiminaev/blob/main/code.gif?raw=true" width="400" height="280"  /></div>
 
 ### Вот, что я умею
-- Python [Ботя для знакомств VKinder](https://github.com/aiminaev/vkinder)
-- PostgreSQL [Сертификат DBLearn] (https://learndb.ru/profile/certificate)
+- Python [Бот для знакомств VKinder](https://github.com/heavenyoung1/VKinder_bot_VK)
+- PostgreSQL [Сертификат DBLearn](https://learndb.ru/profile/certificate)
 - Django [Генератор паролей](https://github.com/heavenyoung1/django_password_generator)
-- Django [Сайт-портфолио - (находится в разработке)] (https://github.com/heavenyoung1/personal_portfolio_project)
+- Django [Сайт-портфолио - (находится в разработке)](https://github.com/heavenyoung1/personal_portfolio_project)
 - HTML CSS [Вёрстка макета веб-страницы](https://github.com/heavenyoung1/WebSite)
 
 <br/>  
