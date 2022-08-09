@@ -24,7 +24,7 @@
 ### Как связаться со мной
 
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/heavenyoung)
-<embed src="(https://github.com/heavenyoung1/heavenyoung1/blob/main/certificate.pdf)" width="700" height="500" />
+<img src="https://github.com/heavenyoung1/heavenyoung1/blob/main/certificate_png.png" width="400" height="240" />
 <!--
 **heavenyoung1/heavenyoung1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
