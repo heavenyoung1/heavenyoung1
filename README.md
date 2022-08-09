@@ -17,6 +17,7 @@
 - Django [Генератор паролей](https://github.com/heavenyoung1/django_password_generator)
 - Django [Сайт-портфолио - (находится в разработке)](https://github.com/heavenyoung1/personal_portfolio_project)
 - HTML CSS [Вёрстка макета веб-страницы](https://github.com/heavenyoung1/WebSite)
+- [Здесь можно посмотреть сертификат об успешном прохождении курсов Нетологии](https://github.com/heavenyoung1/heavenyoung1/blob/main/certificate.pdf)
 <br/>  
 
 [![codewars](https://www.codewars.com/users/heavenyoung1/badges/large?theme=light)](https://www.codewars.com/users/heavenyoung1)
