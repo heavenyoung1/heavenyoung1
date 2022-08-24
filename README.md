@@ -27,6 +27,7 @@
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/heavenyoung)
 <!--<img src="https://github.com/heavenyoung1/heavenyoung1/blob/main/certificate_png.png" width="800" height="400" />-->
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=heavenyoung1)](https://github.com/heavenyoung1/github-readme-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=heavenyoung1&theme=tokyonight_duo)](https://git.io/streak-stats)
 <!--
 **heavenyoung1/heavenyoung1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
