@@ -15,7 +15,7 @@
 - Python [Бот для знакомств VKinder](https://github.com/heavenyoung1/VKinder_bot_VK)
 - PostgreSQL [Сертификат DBLearn](https://learndb.ru/profile/certificate)
 - Django [Генератор паролей](https://github.com/heavenyoung1/django_password_generator)
-- Django [Сайт-портфолио - (находится в разработке)](https://github.com/heavenyoung1/personal_portfolio_project)
+- Django [Сайт-портфолио](https://github.com/heavenyoung1/personal_portfolio_project)
 - HTML CSS [Вёрстка макета веб-страницы](https://github.com/heavenyoung1/WebSite)
 - [Сертификат Python-разработчик](https://github.com/heavenyoung1/heavenyoung1/blob/main/certificate.pdf)
 <br/>  
