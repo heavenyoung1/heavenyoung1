@@ -18,7 +18,7 @@
 - Django [Сайт-портфолио](https://github.com/heavenyoung1/personal_portfolio_project)
 - HTML CSS [Вёрстка макета веб-страницы](https://github.com/heavenyoung1/WebSite)
 - [Сертификат Python-разработчик](https://github.com/heavenyoung1/heavenyoung1/blob/main/certificate.pdf)
-- [Резюме (не на должность разработчика)(https://github.com/heavenyoung1/heavenyoung1/blob/main/%D0%A0%D0%B5%D0%B7%D1%8E%D0%BC%D0%B5(%D0%BD%D0%B5%20%D1%80%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D1%87%D0%B8%D0%BA)_-_%D0%9C%D0%B5%D1%84%D1%91%D0%B4_%D0%95%D0%B2%D0%B3%D0%B5%D0%BD%D0%B8%D0%B9.pdf)
+- [Резюме (не на должность разработчика)](https://github.com/heavenyoung1/personal_portfolio_project/blob/master/portfolio/static/portfolio/%D0%A0%D0%B5%D0%B7%D1%8E%D0%BC%D0%B5(%D0%BD%D0%B5%20%D1%80%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D1%87%D0%B8%D0%BA)_-_%D0%9C%D0%B5%D1%84%D1%91%D0%B4_%D0%95%D0%B2%D0%B3%D0%B5%D0%BD%D0%B8%D0%B9.pdf)
 <br/>  
 
 [![codewars](https://www.codewars.com/users/heavenyoung1/badges/large?theme=light)](https://www.codewars.com/users/heavenyoung1)
