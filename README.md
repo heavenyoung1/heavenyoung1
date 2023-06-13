@@ -1,8 +1,8 @@
-### Привет 👋
+### Hello 👋
 
-Я - <b>Мефёд Евгений</b> - разработчик на python.
+I'm - <b>Eugene</b> - a python developer. I have experience creating chatbots in Python, I'm learning SQL, and C++ language. I am looking for a job in IT.
 
-### Стек моих знаний 🌱
+### Skills 🌱
 ![Python - ](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Django - ](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
 ![CSS3 - ](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
@@ -11,36 +11,21 @@
 ![Git - ](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 <div style="margin: 20px"><img align="right" alt="GIF" src="https://github.com/heavenyoung1/heavenyoung1/blob/main/code.gif" width="400" height="280"  /></div>
 
-### Мои проекты
-- Python [Бот для знакомств VKinder](https://github.com/heavenyoung1/VKinder_bot_VK)
-- PostgreSQL [Сертификат DBLearn](https://learndb.ru/profile/certificate)
-- Django [Генератор паролей](https://github.com/heavenyoung1/django_password_generator)
-- Django [Сайт-портфолио](https://github.com/heavenyoung1/personal_portfolio_project)
-- HTML CSS [Вёрстка макета веб-страницы](https://github.com/heavenyoung1/WebSite)
-- [Сертификат Python-разработчик](https://github.com/heavenyoung1/heavenyoung1/blob/main/certificate.pdf)
-- [Резюме (не на должность разработчика)](https://github.com/heavenyoung1/personal_portfolio_project/blob/master/portfolio/static/portfolio/%D0%A0%D0%B5%D0%B7%D1%8E%D0%BC%D0%B5(%D0%BD%D0%B5%20%D1%80%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D1%87%D0%B8%D0%BA)_-_%D0%9C%D0%B5%D1%84%D1%91%D0%B4_%D0%95%D0%B2%D0%B3%D0%B5%D0%BD%D0%B8%D0%B9.pdf)
+### My projects
+- Python     [Chatbot на Python](https://github.com/heavenyoung1/VKinder_bot_VK)
+- Django     [Portfolio site](https://github.com/heavenyoung1/personal_portfolio_project)
+- C++        [Improving skills on that](https://github.com/heavenyoung1/cpp_learning_jupyter/blob/main/langCex.cpp)
+- HTML/CSS   [Web page layout](https://github.com/heavenyoung1/WebSite)
+- Resume     [Resume](https://github.com/heavenyoung1/heavenyoung1/blob/main/%D0%A0%D0%B5%D0%B7%D1%8E%D0%BC%D0%B5.pdf)
 <br/>  
 
 [![codewars](https://www.codewars.com/users/heavenyoung1/badges/large?theme=light)](https://www.codewars.com/users/heavenyoung1)
 
-### Как связаться со мной
+### How to connect to me
 
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/heavenyoung)
-<!--<img src="https://github.com/heavenyoung1/heavenyoung1/blob/main/certificate_png.png" width="800" height="400" />-->
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=heavenyoung1)](https://github.com/heavenyoung1/github-readme-stats)
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=heavenyoung1&theme=tokyonight_duo)](https://git.io/streak-stats)
 <!--
 **heavenyoung1/heavenyoung1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 
