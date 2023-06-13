@@ -9,7 +9,6 @@ I'm - <b>Eugene</b> - a python developer. I have experience creating chatbots in
 ![HTML5 - ](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Git - ](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-<div style="margin: 20px"><img align="right" alt="GIF" src="https://github.com/heavenyoung1/heavenyoung1/blob/main/code.gif" width="400" height="280"  /></div>
 
 ### My projects
 - Python     [Chatbot на Python](https://github.com/heavenyoung1/VKinder_bot_VK)
