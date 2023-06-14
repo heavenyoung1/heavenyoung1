@@ -12,7 +12,7 @@ I'm - <b>Eugene</b> - a python developer. I have experience creating chatbots in
 ![Git - ](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
 ### My projects
-- Python     [Chatbot на Python](https://github.com/heavenyoung1/VKinder_bot_VK)
+- Python     [Chatbot on Python](https://github.com/heavenyoung1/VKinder_bot_VK)
 - Django     [Portfolio site](https://github.com/heavenyoung1/personal_portfolio_project)
 - C++        [Improving skills on that](https://github.com/heavenyoung1/cpp_learning_jupyter/blob/main/langCex.cpp)
 - HTML/CSS   [Web page layout](https://github.com/heavenyoung1/WebSite)
