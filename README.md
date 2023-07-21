@@ -14,7 +14,7 @@ I'm - <b>Eugene</b> - a python developer. I have experience creating chatbots in
 ### My projects
 - Python     [Chatbot on Python](https://github.com/heavenyoung1/VKinder_bot_VK)
 - Django     [Portfolio site](https://github.com/heavenyoung1/personal_portfolio_project)
-- C++        [Improving skills on that](https://github.com/heavenyoung1/cpp_learning_jupyter/blob/main/langCex.cpp)
+- C++        [Certificate "Introduction to C++" from Yandex Academy](https://github.com/heavenyoung1/heavenyoung1/blob/main/stepik-certificate-363-ae0a425.pdf)
 - HTML/CSS   [Web page layout](https://github.com/heavenyoung1/WebSite)
 - Resume     [Resume](https://github.com/heavenyoung1/heavenyoung1/blob/main/%D0%A0%D0%B5%D0%B7%D1%8E%D0%BC%D0%B5.pdf)
 <br/>  
