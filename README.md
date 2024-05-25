@@ -1,6 +1,6 @@
 ### Hello 👋
 
-I'm - <b>Eugene</b> - a python developer. I have experience creating chatbots in Python, I'm learning SQL, and C++ language. I am looking for a job in IT.
+I'm - <b>Eugene</b> - a python developer. I love linux.
 
 ### Skills 🌱
 ![Python - ](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
